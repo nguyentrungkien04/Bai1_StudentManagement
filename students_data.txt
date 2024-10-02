@@ -1,0 +1,4 @@
+Tên: kien, Mã số: 2274802010447, Năm sinh: 2004, Điểm Toán: 10.0, Điểm Văn: 8.0, Điểm Anh: 9.0
+Tên: nghi, Mã số: 2274802010448, Năm sinh: 2004, Điểm Toán: 1.0, Điểm Văn: 2.0, Điểm Anh: 3.0
+Tên: ngo, Mã số: 2274802010449, Năm sinh: 2005, Điểm Toán: 3.0, Điểm Văn: 4.0, Điểm Anh: 5.0
+Tên: nhi, Mã số: 2274802010450, Năm sinh: 2005, Điểm Toán: 5.0, Điểm Văn: 6.0, Điểm Anh: 7.0
